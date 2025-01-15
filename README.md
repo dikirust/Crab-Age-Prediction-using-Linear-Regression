@@ -1,0 +1,2 @@
+# Crab Age Prediction using Linear Regression
+ This project utilizes linear regression to predict the age of crabs based on their physical attributes such as length, diameter, height, and weight. The dataset is sourced from Kaggle and provides a great opportunity to explore regression analysis and feature engineering techniques. The goal is to help commercial crab farmers determine the optimal harvesting time for their crabs to maximize profit and reduce unnecessary costs.
