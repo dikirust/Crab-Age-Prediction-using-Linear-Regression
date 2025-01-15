@@ -61,6 +61,7 @@ The target variable for the model is **Age**, and the following features are use
 The **sex** variable was removed from the dataset, as it is a categorical feature and incompatible with the regression model.
 
 ## Orange Software Workflow
+![Orange Workflow](https://github.com/dikirust/Crab-Age-Prediction-using-Linear-Regression/blob/main/crab%20orange.png?raw=true)
 
 Orange is an open-source data mining software used in this project to create a visual workflow for the linear regression analysis. It allows for easy manipulation of data and the implementation of machine learning algorithms like Linear Regression.
 
